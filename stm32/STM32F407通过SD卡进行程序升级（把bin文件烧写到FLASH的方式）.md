@@ -6,7 +6,7 @@ http://www.openedv.com/forum.php?mod=viewthread&tid=90835
 
 
  
-stm32f407bootloader_2.4.zip
+stm32f407bootloader_2.4.zip: http://www.openedv.com/forum.php?mod=attachment&aid=NzA0MzR8YjU0MTQ5ODR8MTU1MDMwNTY3NnwwfDkwODM1
 
 6.74 MB, 下载次数: 15169
 
